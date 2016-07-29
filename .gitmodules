@@ -1,3 +1,0 @@
-[submodule "hello-go"]
-	path = src/hello-go
-	url = git@github.com:jm-janzen/hello-go
