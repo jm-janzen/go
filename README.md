@@ -1,4 +1,4 @@
-# Basic golang Ubuntu example
+# Super-basic golang Ubuntu example
 
 ### install go
 
