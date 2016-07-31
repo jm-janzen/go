@@ -3,7 +3,7 @@
 function delete {
     cd $GOBIN
     for i in $(\ls); do
-       \rm $i
+       \rm -i $i
     done;
     printf "Directory cleaned - have a nice day :)\n"
 }
