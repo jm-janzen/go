@@ -2,17 +2,21 @@
 
 ### install go
 
-### update necessary paths
+#### update necessary paths
 `source ./export-go-paths.sh` (or just add these paths to your ~/.profile, and source it)
 
-### write some go
-`vi src/my-awesome-thing.go`
+#### write some go
+`vi src/awesome/my-awesome-thing.go`
 (hack, hack, hack...)
 
-### install your awesome thing
-`go install src/my-awesome-thing.go`
+#### install your awesome thing
+`go install src/awesome/my-awesome-thing.go`
 
-### run your awesome thing
+#### run your awesome thing
 `./bin/my-awesome-thing`
 (awesome things happen)
+
+### just run in-place
+
+#### `go run src/awesome/my-awesome-thing.go`
 
