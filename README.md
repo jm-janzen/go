@@ -16,7 +16,7 @@
 `./bin/my-awesome-thing`
 (awesome things happen)
 
-### just run in-place
+### or just compile (no binary)
 
-#### `go run src/awesome/my-awesome-thing.go`
+`go run src/awesome/my-awesome-thing.go`
 
