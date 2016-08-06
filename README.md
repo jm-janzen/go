@@ -1,4 +1,4 @@
-# Super-basic golang Ubuntu example
+# Super-basic golang Debian/Ubuntu example
 
 ### install go
 
@@ -20,3 +20,4 @@
 
 `go run src/awesome/my-awesome-thing.go`
 
+By default, the above options will compile for the OS from which they were run.
