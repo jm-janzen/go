@@ -1,3 +1,13 @@
+# Binaries
 bin/*
+
+# Source code, except my submodules
+src/*
+!src/jm-janzen
+
+# Vendor package object files
+pkg/*
+
+# Vim swap files, of course
 *.sw[a-z]
 

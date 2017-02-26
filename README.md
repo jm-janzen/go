@@ -1,4 +1,4 @@
-# Super-basic golang Debian/Ubuntu example
+# Super-basic golang project setup example
 
 ### install go
 
